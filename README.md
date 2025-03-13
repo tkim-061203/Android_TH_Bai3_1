@@ -21,6 +21,8 @@
  ┃ ┣ 📂 src/main/res/layout
  ┃ ┃ ┣ 📜 activity_main.xml   # Giao diện đăng ký
  ┃ ┃ ┣ 📜 activity_login.xml  # Giao diện đăng nhập
+ ┃ ┃ ┣ 📜 layout_register.xml  # Giao diện card view cho login
+ ┃ ┃ ┣ 📜 layout_login.xml  # Giao diện card view cho register
  ┣ 📜 build.gradle.kts
  ┣ 📜 settings.gradle.kts
 ```
